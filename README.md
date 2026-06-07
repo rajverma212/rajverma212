@@ -6,15 +6,17 @@ Computer Science student at Arizona State University building AI agents, RAG sys
 
 <p align="center">
   <a href="mailto:rajverma10142006@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="36" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="36"/>
   </a>
 
   <a href="https://www.linkedin.com/in/raj-verma-843290242">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36"/>
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/rajverma212">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="36" alt="GitHub"/>
+    github.com/rajverma212
   </a>
 </p>
 
