@@ -1,26 +1,28 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%" />
+
 # Hi, I'm Raj 👋
 
-Computer Science student at Arizona State University focused on building AI applications, RAG systems, and AI infrastructure.
+Computer Science student at Arizona State University building AI agents, RAG systems, and AI infrastructure.
 
 <p align="center">
   <a href="mailto:rajverma10142006@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="36" alt="Email"/>
   </a>
 
   <a href="https://www.linkedin.com/in/raj-verma-843290242">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" alt="LinkedIn"/>
   </a>
 
   <a href="https://github.com/rajverma212">
-    <img src="https://cdn.simpleicons.org/github/e6edf3" width="32" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="36" alt="GitHub"/>
   </a>
 </p>
 
 </div>
 
----
+<br>
 
 ## Background
 
@@ -34,13 +36,13 @@ My recent work has focused on:
 - AI Workflow Automation
 - Full-Stack AI Applications
 
----
+<br>
 
 ## Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,typescript,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,typescript,cpp" />
 
 ### AI & Backend
 
@@ -50,15 +52,19 @@ My recent work has focused on:
 
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel" />
 
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
----
+<br>
 
 ## Currently Building
 
-### Model Regression Detection System (MRDS)
+### 🧪 Model Regression Detection System (MRDS)
 
 A CI/CD-style AI evaluation platform that automatically tests LLM-powered features against versioned datasets and detects quality regressions before deployment.
 
@@ -71,6 +77,37 @@ A CI/CD-style AI evaluation platform that automatically tests LLM-powered featur
 - Dockerized deployment
 
 **Tech**
-Python • OpenAI • Docker • GitHub Actions • Streamlit • SQLite
+- Python
+- OpenAI
+- Docker
+- GitHub Actions
+- Streamlit
+- SQLite
 
-🔗 https://github.com/rajverma212/Model_Regression_Detector
+[![MRDS](https://img.shields.io/badge/GitHub-MRDS-181717?style=for-the-badge&logo=github)](https://github.com/rajverma212/Model_Regression_Detector)
+
+<br>
+
+## Recent Project
+
+### 🎯 Vibeify
+
+An AI-powered product development platform that transforms PRDs and BRDs into actionable development workflows and software specifications.
+
+**Tech**
+- Claude
+- Next.js
+- TypeScript
+- Convex
+- Clerk
+- Vercel
+
+[![Vibeify](https://img.shields.io/badge/GitHub-Vibeify-181717?style=for-the-badge&logo=github)](https://github.com/rajverma212/Vibeify)
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
