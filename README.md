@@ -1,4 +1,7 @@
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%" />
 
 # Hi, I'm Raj 👋
 
@@ -20,7 +23,7 @@ Computer Science student at Arizona State University building AI agents, RAG sys
 
 </div>
 
-<br>
+---
 
 ## Background
 
@@ -34,9 +37,11 @@ My recent work has focused on:
 - AI Workflow Automation
 - Full-Stack AI Applications
 
-<br>
+---
 
 ## Stack
+
+<div align="center">
 
 ### Languages
 
@@ -54,11 +59,31 @@ My recent work has focused on:
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br>
+</div>
+
+---
+
+## Recent Projects
+
+### 🎯 Vibeify
+
+AI-powered product development platform that transforms PRDs and BRDs into actionable development workflows and software specifications.
+
+**Tech**
+- Claude
+- Next.js
+- TypeScript
+- Convex
+- Clerk
+- Vercel
+
+[![Vibeify](https://img.shields.io/badge/GitHub-Vibeify-181717?style=for-the-badge&logo=github)](https://github.com/rajverma212/Vibeify)
+
+---
 
 ## Currently Building
 
-### Model Regression Detection System (MRDS)
+### 🧪 Model Regression Detection System (MRDS)
 
 A CI/CD-style AI evaluation platform that automatically tests LLM-powered features against versioned datasets and detects quality regressions before deployment.
 
@@ -78,5 +103,20 @@ A CI/CD-style AI evaluation platform that automatically tests LLM-powered featur
 - Streamlit
 - SQLite
 
-🔗 **Repository:**  
-[Model Regression Detection System](https://github.com/rajverma212/Model_Regression_Detector)
+[![MRDS](https://img.shields.io/badge/GitHub-MRDS-181717?style=for-the-badge&logo=github)](https://github.com/rajverma212/Model_Regression_Detector)
+
+---
+
+## Current Focus
+
+- Building production-ready AI applications
+- AI evaluation and monitoring systems
+- Agentic workflows and automation
+- RAG architectures
+- AI infrastructure and deployment
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
