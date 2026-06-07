@@ -14,11 +14,6 @@ Computer Science student at Arizona State University building AI agents, RAG sys
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rajverma212">
-    github.com/rajverma212
-  </a>
-</p>
 
 </div>
 
