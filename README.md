@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%" />
-
 # Hi, I'm Raj 👋
 
 Computer Science student at Arizona State University building AI agents, RAG systems, and AI infrastructure.
