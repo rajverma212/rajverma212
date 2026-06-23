@@ -44,20 +44,15 @@
 
 <div align="center">
 
-<!-- Impact Metrics -->
-<img src="https://img.shields.io/badge/50%2C000%2B-Enterprise%20Records%20Indexed-1d4ed8?style=for-the-badge&labelColor=0f172a" />
-&nbsp;
-<img src="https://img.shields.io/badge/1%2C000%2B-Meetings%20Automated-1d4ed8?style=for-the-badge&labelColor=0f172a" />
-&nbsp;
-<img src="https://img.shields.io/badge/100%25-Citation%20Accuracy-1d4ed8?style=for-the-badge&labelColor=0f172a" />
+| 🗄️ | 🤖 | ✅ |
+|:---:|:---:|:---:|
+| **50,000+** | **1,000+** | **100%** |
+| Enterprise Records Indexed | Meetings Automated | RAG Citation Accuracy |
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%3C2s-Voice%20Response%20Latency-2563eb?style=for-the-badge&labelColor=0f172a" />
-&nbsp;
-<img src="https://img.shields.io/badge/30%25-Latency%20Reduction-2563eb?style=for-the-badge&labelColor=0f172a" />
-&nbsp;
-<img src="https://img.shields.io/badge/50%2B-Eval%20Benchmarks%20Built-2563eb?style=for-the-badge&labelColor=0f172a" />
+| ⚡ | 📉 | 📋 |
+|:---:|:---:|:---:|
+| **< 2s** | **30%** | **50+** |
+| Voice Response Latency | Latency Reduction | Eval Benchmarks Built |
 
 </div>
 
@@ -352,7 +347,7 @@ current_focus:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&layout=socrates&quoteCategory=programming" alt="Dev Quote"/>
 </div>
 
 <p align="center">
