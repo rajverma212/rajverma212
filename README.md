@@ -307,26 +307,49 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
 
 ## ◈ Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Advanced agentic architectures and multi-agent orchestration
-    - LLM fine-tuning and RLHF pipelines
-    - Distributed systems and scalable backend design
-  building:
-    - Production AI tools at Intelligaia
-    - Open source RAG and evaluation tooling
-    - AI-native full stack applications
-  exploring:
-    - MCP-based AI systems and tool-use orchestration
-    - Voice AI and real-time speech pipelines
-    - AI deployment and inference optimization
-  open_to:
-    - AI/ML Engineering internships
-    - Full Stack Engineering roles
-    - Research collaborations in LLM systems
-    - Open source AI projects
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📚 &nbsp;Learning**
+
+![](https://img.shields.io/badge/Agentic%20Architectures%20%26%20Multi--Agent%20Orchestration-0f172a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/LLM%20Fine--Tuning%20%26%20RLHF%20Pipelines-0f172a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Distributed%20Systems%20%26%20Scalable%20Backend-0f172a?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**🔨 &nbsp;Building**
+
+![](https://img.shields.io/badge/Production%20AI%20Tools%20%40%20Intelligaia-1d4ed8?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source%20RAG%20%26%20Eval%20Tooling-1d4ed8?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/AI--Native%20Full%20Stack%20Applications-1d4ed8?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 &nbsp;Exploring**
+
+![](https://img.shields.io/badge/MCP--Based%20AI%20Systems%20%26%20Tool--Use-0f172a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Voice%20AI%20%26%20Real--Time%20Speech%20Pipelines-0f172a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/AI%20Deployment%20%26%20Inference%20Optimization-0f172a?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 &nbsp;Open To**
+
+![](https://img.shields.io/badge/AI%2FML%20Engineering%20Internships-2563eb?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Full%20Stack%20Engineering%20Roles-2563eb?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/LLM%20Systems%20Research%20Collaborations-2563eb?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source%20AI%20Projects-2563eb?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
@@ -343,12 +366,6 @@ current_focus:
     <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
-
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&layout=socrates&quoteCategory=programming" alt="Dev Quote"/>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1d4ed8,2563eb&height=160&section=footer&animation=twinkling" width="100%"/>
