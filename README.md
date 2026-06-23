@@ -58,7 +58,7 @@
 
 ## ◈ About
 
-I build at the intersection of AI systems and full stack engineering. As a sophomore at ASU's Barrett Honors College, I've shipped production AI at two companies — engineering RAG pipelines indexing **50,000+ enterprise knowledge records** at Intelligaia and deploying AI voice agents with **sub-2-second response latency** at Alchemy Labs.
+I build at the intersection of AI systems and full stack engineering. I've shipped production AI at two companies — engineering RAG pipelines indexing **50,000+ enterprise knowledge records** at Intelligaia and deploying AI voice agents with **sub-2-second response latency** at Alchemy Labs.
 
 My work spans the full AI stack: designing retrieval architectures, benchmarking LLM pipelines, orchestrating agentic systems with LangGraph and MCP, and shipping full stack applications with Next.js, FastAPI, and Vercel. I care about building AI that is grounded, measurable, and deployable — not just impressive in a notebook.
 
