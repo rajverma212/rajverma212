@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Tempe%2C%20AZ-0f172a?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍%20Fremont%2C%20CA%20%7C%20Tempe%2C%20AZ-0f172a?style=flat-square" alt="Location"/>
 </p>
 
 <p align="center">
