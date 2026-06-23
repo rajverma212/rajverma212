@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🟢%20Currently%20Building-%40%20Intelligaia-1d4ed8?style=flat-square&labelColor=0f172a" alt="Currently Building"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Solutions;Barrett+Honors+Scholar+%40+ASU" alt="Typing SVG" />
   </a>
@@ -35,22 +39,46 @@
   <img src="https://komarev.com/ghpvc/?username=rajverma212&style=flat-square&color=1d4ed8&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/rajverma212?style=flat-square&color=1e3a8a&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/rajverma212?style=flat-square&color=2563eb&label=Stars" alt="Stars"/>
-</p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
+
+<div align="center">
+
+<!-- Impact Metrics -->
+<img src="https://img.shields.io/badge/50%2C000%2B-Enterprise%20Records%20Indexed-1d4ed8?style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/1%2C000%2B-Meetings%20Automated-1d4ed8?style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/100%25-Citation%20Accuracy-1d4ed8?style=for-the-badge&labelColor=0f172a" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3C2s-Voice%20Response%20Latency-2563eb?style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/30%25-Latency%20Reduction-2563eb?style=for-the-badge&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/50%2B-Eval%20Benchmarks%20Built-2563eb?style=for-the-badge&labelColor=0f172a" />
+
+</div>
 
 ## ◈ About
 
 I build at the intersection of AI systems and full stack engineering. As a sophomore at ASU's Barrett Honors College, I've shipped production AI at two companies — engineering RAG pipelines indexing **50,000+ enterprise knowledge records** at Intelligaia and deploying AI voice agents with **sub-2-second response latency** at Alchemy Labs.
 
-My work spans the full AI stack: designing retrieval architectures, benchmarking LLM pipelines, orchestrating agentic systems with LangGraph and MCP, and shipping full stack applications with Next.js, FastAPI, and Vercel. I care about building AI that is grounded, measurable, and deployable.
+My work spans the full AI stack: designing retrieval architectures, benchmarking LLM pipelines, orchestrating agentic systems with LangGraph and MCP, and shipping full stack applications with Next.js, FastAPI, and Vercel. I care about building AI that is grounded, measurable, and deployable — not just impressive in a notebook.
 
 **Open To:**
 
-- `AI/ML Engineering Internships` &nbsp; `Full Stack Engineering Roles`
-- `LLM Systems Research Collaborations` &nbsp; `Open Source AI Projects`
+<div align="center">
 
----
+| | |
+|:---:|:---:|
+| ![](https://img.shields.io/badge/AI%2FML%20Engineering%20Internships-1d4ed8?style=flat-square) | ![](https://img.shields.io/badge/Full%20Stack%20Engineering%20Roles-1e3a8a?style=flat-square) |
+| ![](https://img.shields.io/badge/LLM%20Systems%20Research-2563eb?style=flat-square) | ![](https://img.shields.io/badge/Open%20Source%20AI%20Projects-1d4ed8?style=flat-square) |
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Tech Stack
 
@@ -79,7 +107,7 @@ My work spans the full AI stack: designing retrieval architectures, benchmarking
   <img src="https://img.shields.io/badge/Plotly-1d4ed8?style=flat-square&logo=plotly&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ AI / ML Expertise
 
@@ -96,7 +124,7 @@ My work spans the full AI stack: designing retrieval architectures, benchmarking
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Featured Projects
 
@@ -178,7 +206,7 @@ Architected and shipped the full stack as lead developer: Next.js frontend, Conv
 <br/>
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Experience
 
@@ -232,7 +260,7 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Achievements
 
@@ -251,9 +279,7 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
 
 </div>
 
----
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ GitHub Analytics
 
@@ -266,9 +292,7 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
   <img src="https://streak-stats.demolab.com?user=rajverma212&theme=midnight-purple&hide_border=true&background=060b18&stroke=1d4ed8&ring=2563eb&fire=60a5fa&currStreakLabel=bfdbfe&sideLabels=bfdbfe&dates=93c5fd" alt="GitHub Streak"/>
 </p>
 
----
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Contribution Activity
 
@@ -276,7 +300,7 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajverma212&bg_color=060b18&color=2563eb&line=1d4ed8&point=60a5fa&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Contribution Snake
 
@@ -284,7 +308,7 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
   <img src="https://raw.githubusercontent.com/rajverma212/rajverma212/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Current Focus
 
@@ -309,7 +333,7 @@ current_focus:
     - Open source AI projects
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
 ## ◈ Connect
 
@@ -325,12 +349,12 @@ current_focus:
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</div>
 
 <p align="center">
-  <i>"The gap between a working model and a deployed system is where real engineering happens."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1d4ed8,2563eb&height=160&section=footer&animation=twinkling" width="100%"/>
 </p>
