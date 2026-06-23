@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=200&section=header&text=Raj%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=200&section=header&text=Raj%20Verma&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn&stroke=2563eb" width="100%"/>
 </p>
 
 <p align="center">
@@ -368,5 +368,5 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1d4ed8,2563eb&height=160&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=160&section=footer&animation=twinkling" width="100%"/>
 </p>
