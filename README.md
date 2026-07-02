@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Arizona%20State%20University-1e3a8a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNVYzbC05IDV6Ii8+PC9zdmc+" alt="ASU"/>
   <img src="https://img.shields.io/badge/Barrett%20Honors%20College-1e3a8a?style=for-the-badge" alt="Barrett"/>
   <img src="https://img.shields.io/badge/CS%20%7C%20Expected%202028-2563eb?style=for-the-badge" alt="CS 2028"/>
-  <img src="https://img.shields.io/badge/GPA%203.71%2F4.00-1d4ed8?style=for-the-badge" alt="GPA"/>
 </p>
 
 <p align="center">
@@ -40,27 +39,11 @@
   <img src="https://img.shields.io/github/followers/rajverma212?style=flat-square&color=1e3a8a&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/rajverma212?style=flat-square&color=2563eb&label=Stars" alt="Stars"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
-
-<div align="center">
-
-| 🗄️ | 🤖 | ✅ |
-|:---:|:---:|:---:|
-| **50,000+** | **1,000+** | **100%** |
-| Enterprise Records Indexed | Meetings Automated | RAG Citation Accuracy |
-
-| ⚡ | 📉 | 📋 |
-|:---:|:---:|:---:|
-| **< 2s** | **30%** | **50+** |
-| Voice Response Latency | Latency Reduction | Eval Benchmarks Built |
-
-</div>
-
 ## ◈ About
 
-I build at the intersection of AI systems and full stack engineering. I've shipped production AI at two companies — engineering RAG pipelines indexing **50,000+ enterprise knowledge records** at Intelligaia and deploying AI voice agents with **sub-2-second response latency** at Alchemy Labs.
+I build at the intersection of AI systems and full stack engineering. As a sophomore at ASU's Barrett Honors College, I've shipped production AI at two companies — engineering RAG pipelines indexing **50,000+ enterprise knowledge records** at Intelligaia and deploying AI voice agents with **sub-2-second response latency** at Alchemy Labs.
 
-My work spans the full AI stack: designing retrieval architectures, benchmarking LLM pipelines, orchestrating agentic systems with LangGraph and MCP, and shipping full stack applications with Next.js, FastAPI, and Vercel. I care about building AI that is grounded, measurable, and deployable — not just impressive in a notebook.
+My work spans the full AI stack: designing retrieval architectures, benchmarking LLM pipelines, orchestrating agentic systems with LangGraph and MCP, and shipping full stack applications with Next.js, FastAPI, and Vercel. I care about building AI that is grounded, measurable, and deployable.
 
 **Open To:**
 
@@ -254,25 +237,6 @@ Developed AI phone agents handling 40+ automated customer interactions/day using
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🏛️ **Barrett The Honors College** | Selective honors program at ASU — top academic distinction for incoming CS scholars |
-| 📈 **3.71 GPA** | Dean's List-level academic performance in Computer Science |
-| ✅ **100% Citation Accuracy** | Achieved on production RAG pipeline during enterprise validation testing |
-| ⚡ **30% Latency Reduction** | Transcript quality improvement benchmarked across 8+ LLM architectures |
-| 🎙️ **Sub-2s Voice Latency** | Production AI voice agents deployed at Alchemy Labs |
-| 🗄️ **50,000+ Records Indexed** | Enterprise RAG knowledge base at Intelligaia |
-| 🤖 **1,000+ Meetings Automated** | Enterprise meeting intelligence platform at Intelligaia |
-| 📋 **50+ Golden Q&A Benchmarks** | Automated evaluation suite built for production RAG quality assurance |
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=60a5fa,ffffff,60a5fa&height=1&section=footer" />
 
